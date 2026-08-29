@@ -3,7 +3,7 @@
 NextGen Navigator is an interactive, desktop + CLI career counseling assistant that guides students through a 20-question career quiz, an AI-powered multi-turn counseling chat, and generates a country-specific 4-phase career roadmap that can be saved as a text file. It's designed for educators, career counselors, and students who want a practical, repeatable way to explore career options and actionable next steps.
 
 Badges:  
-- License: MIT
+- License: Apache License Version 2.0
 
 ## Key features
 - Career Quiz — 20 targeted questions that score preferences across multiple career fields.
@@ -95,7 +95,7 @@ Contributions are welcome. Suggested workflow:
 Please do not include API keys or other secrets in PRs.
 
 ## License
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the Apache License Version 2.0 — see the LICENSE file for details.
 
 ## Author / Contact
 Zunaira — thank you for checking out the project! For questions or collaboration ideas, open an issue or PR in this repository.
